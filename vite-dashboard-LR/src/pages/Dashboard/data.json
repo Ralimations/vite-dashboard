@@ -1,0 +1,22 @@
+{
+  "stats": {
+    "totalRevenue": 45231.89,
+    "activeUsers": 2350,
+    "sales": 12234,
+    "activeNow": 573
+  },
+  "revenue": [
+    { "month": "Jan", "value": 400 },
+    { "month": "Feb", "value": 300 },
+    { "month": "Mar", "value": 500 },
+    { "month": "Apr", "value": 450 },
+    { "month": "May", "value": 600 },
+    { "month": "Jun", "value": 550 }
+  ],
+  "projects": [
+    { "id": "1", "name": "Project Alpha", "status": "Active", "priority": "High", "assignee": "John Doe" },
+    { "id": "2", "name": "Project Beta", "status": "Pending", "priority": "Medium", "assignee": "Jane Smith" },
+    { "id": "3", "name": "Project Gamma", "status": "Completed", "priority": "Low", "assignee": "Bob Johnson" },
+    { "id": "4", "name": "Project Delta", "status": "Active", "priority": "High", "assignee": "Alice Brown" }
+  ]
+}
